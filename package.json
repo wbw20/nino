@@ -18,7 +18,6 @@
   "license": "MIT",
   "devDependencies": {
     "grunt-cli": "~0.1.13",
-    "grunt": "~0.4.5",
-    "node-gyp": "~0.13.1"
+    "grunt": "~0.4.5"
   }
 }
