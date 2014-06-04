@@ -1,0 +1,23 @@
+{
+  "name": "nino",
+  "version": "0.0.1",
+  "description": "CLI tool for Arduino.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Arduino",
+    "dpm",
+    "CLI"
+  ],
+  "bin": "lib/nino.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "William B. Wettersten",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5"
+  }
+}
