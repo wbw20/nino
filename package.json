@@ -17,7 +17,5 @@
   "author": "William B. Wettersten",
   "license": "MIT",
   "devDependencies": {
-    "grunt-cli": "~0.1.13",
-    "grunt": "~0.4.5"
   }
 }
