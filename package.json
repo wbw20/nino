@@ -1,6 +1,6 @@
 {
   "name": "nino",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLI tool for Arduino.",
   "dependencies": {
     "serialport": "1.4.0",
