@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "CLI tool for Arduino.",
   "dependencies": {
+    "async": "0.9.0",
     "node-gyp": "0.13.1",
     "serialport": "1.4.0",
     "underscore": "1.6.0"
