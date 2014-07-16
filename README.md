@@ -34,6 +34,12 @@ $ nino upload
 
 This command will look for a connected arduino and upload the compiled sketch in the bin/ directory, unless a different sketch name is passed in.
 
+``` code
+$ nino serial
+```
+
+This command will find a connected arduino device and log whatever it sends in over serial.
+
 
 ``` code
 $ nino list
