@@ -1,7 +1,7 @@
 {
   "name": "nino",
-  "version": "0.0.7",
-  "description": "CLI tool for Arduino.",
+  "version": "0.1.0",
+  "description": "Toolbelt for Arduino.",
   "dependencies": {
     "async": "0.9.0",
     "node-gyp": "0.13.1",
@@ -16,7 +16,7 @@
     "dpm",
     "CLI"
   ],
-  "bin": "lib/nino.js",
+  "main": "lib/nino.js",
   "engines": {
     "node": ">= 0.8.0"
   },
